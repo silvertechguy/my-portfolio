@@ -33,7 +33,7 @@ export const projectsData = [
     img: 'project.png',
     title: 'woofer',
     info:
-      "Woofer is a full-stack web application using the (PERN) Stack. It's a twitter-like application that allows you to post woofs (tweets), see woof details such as comments and likes, get notifications, see user profile, edit profile, like and unlike, comment, and do the basic CRUD operations. Used React to make the front end. Built backend with Node and Express where we have a restful API server. Created session management with authenticated and protected routes using Redis and JWT. Stored the application data securely in the PostgreSQL database. Used Docker and Docker Compose to make development processes easier.",
+      "Woofer is a full-stack web application using the (PERN) Stack. It's a twitter-like application that allows you to post woofs (tweets), see woof details such as comments and likes, get notifications, see user profile, edit profile, like and unlike, comment, and do the basic CRUD operations. Used React to make the front end. Built backend with Node and Express where we have a restful API server. Created session management with authenticated and protected routes using Redis and JWT. Stored the application data securely in the PostgreSQL database. Used Docker and Docker Compose to make development processes easier.Integrated Nexmo API to send SMS whenever someone register.",
     info2: '',
     url: 'https://woofer-official.herokuapp.com/',
     repo: 'https://github.com/silvertechguy/woofer', // if no repo, the button will not show up
