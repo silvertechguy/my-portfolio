@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'I am passionate about building scalable software, creating effective solutions, and learning every day to grow professionally in the IT field.',
   paragraphThree: 'Feel free to contact me via email at any time',
-  resume: 'https://bit.ly/alifaddaresume', // if no resume, the button will not show up
+  resume: "http://bit.ly/ali-fadda-resume", // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
